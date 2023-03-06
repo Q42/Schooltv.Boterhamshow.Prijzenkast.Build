@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.js": "https://github.com/Q42/Schooltv.Boterhamshow.Prijzenkast.Build/blob/main/static/js/main.js",
+    "main.js": "https://cdn.jsdelivr.net/gh/Q42/Schooltv.Boterhamshow.Prijzenkast.Build@main/static/js/main.js",
     "static/js/787.652a6c3f.chunk.js": "./static/js/787.652a6c3f.chunk.js",
     "static/media/instructies.webm": "./static/media/instructies.48553e552dfc5bc36e4a.webm",
     "static/media/goed_1.webm": "./static/media/goed_1.9ebaf72d78846538d126.webm",
